@@ -1,0 +1,24 @@
+{
+    "name": "twain-docscanner",
+    "version": "0.0.1",
+    "description": "Cross-platform document scanning application for Windows, Linux and macOS",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "Dynamsoft",
+        "document scan",
+        "web twain",
+        "SDK"
+    ],
+    "author": "sigata",
+    "homepage": "",
+    "devDependencies": {
+        "electron-prebuilt": "^1.6.1"
+    }
+}
